@@ -1,4 +1,4 @@
-# delivery-optimization
+# Delivery Optimization
 
 Project made on professional internship period at one Croatian IT company. Developed in C# and Windows Forms framework, it optimizes delivery routes for given destinations, vehicles and cargo. 
 
